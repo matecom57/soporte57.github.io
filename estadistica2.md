@@ -46,4 +46,8 @@ Variables.
 2. Thomas W. MacFarland, “Introduction to Data Analysis and Graphical Presentation in Biostatistics with R”. Ed. Springer
 3. Manas A. Pathak, “Beginning Data Science with R”. Ed. Springer
 
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
+
 
