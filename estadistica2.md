@@ -28,16 +28,27 @@ Variables.
 10. Entrada Y Salida. Salvando y restaurando datos de R.
 11. Funciones de Usuario y Programación.
 12. Aplicaciones
+
 12.1 Diferenciación, Integración e Interpolación.
+
 12.2 Solución de ecuaciones y sistemas de ecuaciones lineales.
+
 12.3 Solución de Sistemas de Ecuaciones Diferenciales de 1er orden acopladas.
+
 12.4 Algebra Lineal Basica. Operaciones Aritméticas. Valores Propios, Vectores Propios y Determinantes.
+
 12.5 Distribuciones de Probabilidad. Discretas y Continuas
+
 12.6 Estadística Descriptiva
+
 12.7 Regresión Lineal y Correlación.
+
 12.8 Análisis de Componentes Principales
+
 12.9 Análisis de Agrupamiento (“Clustering”)
+
 12.10 Regresion Lineal Multiple. Correlación Canónica.
+
 12.11 Análisis de Imágenes
 
 ### Bibliografía Básica:
