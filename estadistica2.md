@@ -7,11 +7,13 @@
 ● Introducir al alumno en aprender un lenguaje de programación para el análisis estadístico de datos.
 </span>
 
-Objetivos específicos: El alumno:
+### Objetivos específicos: 
 
+<span style="color:green;font-weight:700;font-size:20px">
 ● Aprender un lenguaje de programación, fácil de aprender y útil para el análisis de datos.
 
 ● Aprender herramientas que proporciona R para hacer análisis estadístico de datos, paramétrico y no paramétrico.
+</span>
 
 ## TEMARIO
 
