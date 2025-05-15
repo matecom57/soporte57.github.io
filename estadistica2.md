@@ -10,9 +10,11 @@
 ### Objetivos específicos: 
 
 <span style="color:green;font-weight:700;font-size:20px">
+    
 ● Aprender un lenguaje de programación, fácil de aprender y útil para el análisis de datos.
 
 ● Aprender herramientas que proporciona R para hacer análisis estadístico de datos, paramétrico y no paramétrico.
+
 </span>
 
 ## TEMARIO
