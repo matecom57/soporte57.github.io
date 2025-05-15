@@ -17,12 +17,14 @@
 
 </span>
 
+
 ## TEMARIO
 
+<p>
 1. Qué es “R”. Instalación y Ambiente de Programación. Historia
 2. R como Calculadora. Operadores Aritméticos, Operadores de Comparación.
-3. Conceptos básicos de Programación Orientada a Objetos. Tipos de Datos. Datos Escalares, Vectores, Factores, Matrices. Definición de 
-Variables.
+3. Conceptos básicos de Programación Orientada a Objetos. Tipos de Datos. Datos Escalares, Vectores, Factores, Matrices. Definición de Variables.
+</p>
 4. Solución de Ecuaciones. Diferenciación e Integración de Funciones.
 5. Script’s. Implementando algoritmos en la solución de problemas con el lenguaje de programación “R”.
 6. Estructuras de Control: if, while, for
