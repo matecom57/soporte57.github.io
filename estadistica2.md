@@ -3,9 +3,9 @@
 
 ## Objetivos generales:
 
-El alumno:
-
+<span style="color:green;font-weight:700;font-size:20px">
 ● Introducir al alumno en aprender un lenguaje de programación para el análisis estadístico de datos.
+</span>
 
 Objetivos específicos: El alumno:
 
